@@ -1,0 +1,45 @@
+body {
+    display: flex;
+}
+
+
+.plants-img {
+    width: 465.5px;
+    height: 698px;
+}
+
+.odin-back {
+    background: black;
+    position: absolute;
+    top: 175px;
+}
+
+.odin-logo {
+    width: 95px;
+    height: 127px;
+}
+
+form div div {
+    display: flex;
+    flex-direction: column;
+}
+
+form div {
+    display: flex;
+}
+
+.img-div {
+    position: relative;
+}
+
+.img-div p {
+    color: white;
+    position: absolute;
+    top: 660px;
+    left: 0;
+    right: 0;
+    width: 214.664px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
