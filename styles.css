@@ -13,14 +13,14 @@ body {
 
 
 .plants-img {
-    width: 931px;
-    height: 1396px;
+    width: 465,5px;
+    height: 698px;
 }
 
 .odin-back div {
     background: rgb(0, 0, 0, 0.5);
     position: absolute;
-    top: 300px;
+    top: 150px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -28,8 +28,8 @@ body {
 }
 
 .odin-logo {
-    width: 190px;
-    height: 254px;
+    width: 95px;
+    height: 127px;
 }
 
 form div div {
@@ -46,7 +46,7 @@ form > div {
 .odin-back p {
     color: #E5E7EB;
     font-family: Norse, sans-serif;
-    font-size: 180px;
+    font-size: 90px;
     margin: 0;
 }
 
@@ -57,7 +57,7 @@ form > div {
 .img-div > p {
     color: #E5E7EB;
     position: absolute;
-    top: 1340px;
+    top: 650px;
     left: 0;
     right: 0;
     width:  215.664px;
